@@ -1,1 +1,1 @@
-ship for the new web.
+moved to [omnipin](https://github.com/omnipin)
